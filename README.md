@@ -1,4 +1,4 @@
-# Qua Licence 
+# Qua Licence  
 
 TR : 
 ---
